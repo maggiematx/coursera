@@ -1,0 +1,20 @@
+h1 {
+    color: purple;
+}
+
+#header1 {
+    color: green;
+}
+
+#header2 {
+    color: pink;
+}
+
+#p1 {
+    color: rgb(255, 0, 34);
+}
+
+#middle {
+    display: block;
+
+}
